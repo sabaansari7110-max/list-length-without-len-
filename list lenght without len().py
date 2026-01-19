@@ -14,7 +14,6 @@ print(count)
 count= 0
 for i in numbers:
     count= count + 1
-
     print(count)
 
 1st method output:-
@@ -29,3 +28,4 @@ for i in numbers:
 1
 2
 3
+
