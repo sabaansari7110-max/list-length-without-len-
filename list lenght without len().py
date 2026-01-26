@@ -1,6 +1,5 @@
 #(1st method)
 numbers= [10,20,30]
-
 for i in numbers:
     print(i)
 
@@ -15,6 +14,7 @@ count= 0
 for i in numbers:
     count= count + 1
     print(count)
+
 
 
 
