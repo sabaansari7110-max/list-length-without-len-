@@ -11,10 +11,22 @@ we use a loop to count each element and store the total count as the length of t
 <br>
 2.Download the file
 <br>
-3. Run:<br>
+3. Run:
+<br>
 Python list length withot len().py
 
 ##Example output
+<br>
 If list= [10, 20, 30, 40]
+<br.
 output:Length of list= 4
+
+##What I Learned:
+<br>
+1.How iteration works in python
+<br>
+2.Understanding how len() works internally
+<br>
+3.Better control over basic logic
+
 
