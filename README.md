@@ -18,7 +18,7 @@ Python list length withot len().py
 ##Example output
 <br>
 If list= [10, 20, 30, 40]
-<br.
+<br>
 output:Length of list= 4
 
 ##What I Learned:
