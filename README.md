@@ -14,7 +14,8 @@ we use a loop to count each element and store the total count as the length of t
 3. Run:
 <br>
 ```text
-ist length withot len().py
+ list length withot len().py
+```
 
 ## Example output
 ```python
