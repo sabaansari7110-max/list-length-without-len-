@@ -12,9 +12,9 @@ we use a loop to count each element and store the total count as the length of t
 2.Download the file
 <br>
 3. Run:
-<br>
+
 ```text
- list length withot len().py
+list length withot len().py
 ```
 
 ## Example output
